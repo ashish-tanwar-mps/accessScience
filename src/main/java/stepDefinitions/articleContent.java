@@ -1158,9 +1158,5 @@ public class articleContent {
 		acpo.click_self_test_button();
 	}
 	
-	public void testing_git_update() {
-		
-		log.info("tested");
-	}
 }
 
